@@ -1,25 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an Instagram-like website made with Ruby according to this YouTube tutorial: https://www.youtube.com/watch?v=MpFO4Zr0EPE
 
-Things you may want to cover:
+Some of the features include:
 
-* Ruby version
+Registering
 
-* System dependencies
+Logging in
 
-* Configuration
+Logging out
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# Instagram
+Adding a new post
